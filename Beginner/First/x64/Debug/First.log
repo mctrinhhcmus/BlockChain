@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\BlockChain\source\Beginner\First\main.cpp(136,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BlockChain\source\Beginner\First\main.cpp(168,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  First.vcxproj -> D:\BlockChain\source\Beginner\x64\Debug\First.exe
